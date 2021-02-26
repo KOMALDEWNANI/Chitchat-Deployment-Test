@@ -1,1 +1,1 @@
-web: gunicorn  Chatbit: app
+web: gunicorn  Chatbit:app
